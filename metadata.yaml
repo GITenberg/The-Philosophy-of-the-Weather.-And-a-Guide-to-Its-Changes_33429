@@ -1,0 +1,29 @@
+_repo: The-Philosophy-of-the-Weather.-And-a-Guide-to-Its-Changes_33429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, T. B. (Thomas Belden)
+    alias: Butler, Thomas Belden
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '36402'
+    url: http://www.gutenberg.org/2009/agents/36402
+description: ''
+gutenberg_issued: '2010-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33429'
+  lccn: 04033184
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weather forecasting'
+- !lcsh 'Weather'
+- !lcc 'QC'
+title: The Philosophy of the Weather. And a Guide to Its Changes
+url: http://www.gutenberg.org/ebooks/33429
